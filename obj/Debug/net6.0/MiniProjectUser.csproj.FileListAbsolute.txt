@@ -1,0 +1,15 @@
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\bin\Debug\net6.0\MiniProjectUser.exe
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\bin\Debug\net6.0\MiniProjectUser.deps.json
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\bin\Debug\net6.0\MiniProjectUser.runtimeconfig.json
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\bin\Debug\net6.0\MiniProjectUser.dll
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\bin\Debug\net6.0\MiniProjectUser.pdb
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\MiniProjectUser.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\MiniProjectUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\MiniProjectUser.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\MiniProjectUser.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\MiniProjectUser.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\MiniProjectUser.dll
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\refint\MiniProjectUser.dll
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\MiniProjectUser.pdb
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\MiniProjectUser.genruntimeconfig.cache
+C:\Users\99455\Desktop\hecer c++\MiniProjectUser\obj\Debug\net6.0\ref\MiniProjectUser.dll
